@@ -1,0 +1,8 @@
+/* Thème clair */
+:root {
+  --shadow: 0 0 10px rgba(0 , 123, 255, 0.7);
+  --color: #007bff;
+  --bridges: black;
+  --bg-header: #f8f9fa;
+  --selected: #aa0000;
+}
